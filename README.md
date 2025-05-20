@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:20.05.2025
+## Date:20.12.2024
 ## Reg No:212224040295
 
 ## AIM:
@@ -34,9 +34,8 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
-html code
-
+```
+//html code
 <div class="container--0-">
 <div class="text-0-1-2">Pongal Celebration</div>
   <svg
@@ -179,7 +178,7 @@ html code
     1234567890
   </div>
 </div>
-// css code
+//css code
 .container--0- {
   position: absolute;
   left: 1348px;
@@ -319,10 +318,11 @@ html code
   text-align: left;
   vertical-align: top;
 }
+```
 
 ## OUTPUT:
+![Screenshot 2025-05-20 085329](https://github.com/user-attachments/assets/5f555143-b71e-468f-84de-7bcbeedea1fb)
 
-![alt text](<Screenshot 2025-05-20 085329.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
