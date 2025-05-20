@@ -34,7 +34,9 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-//html code
+
+html code
+
 <div class="container--0-">
 <div class="text-0-1-2">Pongal Celebration</div>
   <svg
@@ -177,7 +179,7 @@ Figma
     1234567890
   </div>
 </div>
-//css code
+// css code
 .container--0- {
   position: absolute;
   left: 1348px;
